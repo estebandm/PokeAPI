@@ -1,0 +1,10 @@
+.header{
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    margin: 1rem 2rem 1rem;
+}
+
+.header-img{
+    width: 150px;
+}

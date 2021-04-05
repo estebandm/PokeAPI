@@ -1,3 +1,33 @@
+:root {
+    --body: #ffe4a0;
+    --yellowLight: #FFD465;
+    --blue: #1947E5;
+    --black: #19181fee;
+    --green: #00C6AE;
+    --ligthGreen: #61E4C5;
+    --red: #F95A2C;
+    --white: #ffffff;    
+    --grey: #dadada;
+    --yellowHoverOutlined: #ffbc1223;
+    --blueHoverOutlined: #1949e52c;
+    --blackHoverOutlined: #19181f23;
+    --greenHoverOutlined: #00c6af28;
+    --ligthGreenHoverOutlined: #61e4c523;
+    --greyHoverOutlined: #dadada5d;
+    --yellowHoverContained: #ffd15d;
+    --blueHoverContained: #426eff;
+    --whiteHoverContained: #f0f0f0;    
+    --blackHoverContained: #08070a;
+    --greenHoverContained: #00c6af7c;;
+    --ligthGreenHoverContained: #62e6c5;
+    --greyHoverContained: #adadad;
+    --greyShadow: #979797;    
+    --yellowShadow: #c99000;
+    --blueShadow: #0029b1;
+    --greenShadow: #03af9b;
+    --ligthGreenShadow: #45bea2;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -7,7 +37,4 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
